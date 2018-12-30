@@ -1,0 +1,26 @@
+
+fsquid:S2168"9Remove this dangerous instance of double-checked locking.(´àöûşÿÿÿÿHŞRBLOCKERZBUG
+ "squid:ClassVariableVisibilityCheck"TMake gameList a static final constant or non-public and provide accessors if needed.(Õ°ÀšúÿÿÿÿHâRMINORZVULNERABILITY
+squid:S1157l"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ÑÅ‡RHåRMINORZ
+CODE_SMELL
+‹squid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ø¦¸ıÿÿÿÿHÚRMINORZ
+CODE_SMELL
+€squid:ModifiersOrderCheckG"EReorder the modifiers to comply with the Java Language Specification.(¨µ£H×RMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheck."EReorder the modifiers to comply with the Java Language Specification.(Å¥õæÿÿÿÿÿHÕRMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheck@"EReorder the modifiers to comply with the Java Language Specification.(¯ú‚ÂşÿÿÿÿHÖRMINORZ
+CODE_SMELL
+¥squid:S1319"sThe type of the "gameList" object should be an interface such as "List" rather than the implementation "ArrayList".(Õ°ÀšúÿÿÿÿHßRMINORZ
+CODE_SMELL
+…squid:ModifiersOrderCheckZ"EReorder the modifiers to comply with the Java Language Specification.(ÄíÕ²üÿÿÿÿHØRMINORZ
+CODE_SMELL
+’squid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù…ì’øÿÿÿÿ8¿íÃ©ÿ,H†RMINORZ
+CODE_SMELL
+Œ
+squid:S135`"YReduce the total number of break and continue statements in this loop to use at most one.(•ÆéÆ8ÀíÃ©ÿ,H‡RMINORZ
+CODE_SMELL
+©squid:S1319Z"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÄíÕ²üÿÿÿÿ8ÀíÃ©ÿ,HˆRMINORZ
+CODE_SMELL
+“squid:S1149G"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨µ£8ÀíÃ©ÿ,H‰RMAJORZ
+CODE_SMELL

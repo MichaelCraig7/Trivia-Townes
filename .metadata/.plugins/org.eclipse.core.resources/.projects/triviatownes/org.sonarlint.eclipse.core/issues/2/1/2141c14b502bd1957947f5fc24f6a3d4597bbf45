@@ -1,0 +1,11 @@
+
+usquid:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ЖшозHРRMINORZ
+CODE_SMELL
+msquid:S1854.";Remove this useless assignment to local variable "session".(оЊѕ…ъяяяяHСRMAJORZ
+CODE_SMELL
+msquid:S18542";Remove this useless assignment to local variable "session".(оЊѕ…ъяяяяHТRMAJORZ
+CODE_SMELL
+Ђsquid:S00116"RRename this field "VERBOSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Є№’HУRMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck"?Remove this unused import 'com.ex.services.GameManagerService'.(‚Џ©µHФRMINORZ
+CODE_SMELL
